@@ -29,7 +29,7 @@ const Experience = () => {
 
             <div className='shadow-md hover:scale-105 duration-300 py-2 rounded-lg hover:shadow-yellow-400 ease-in-out'>
                     <img src={javascript} alt="" className='w-20 mx-auto' />
-                <p className='mt-4 text-white'>Html</p>
+                <p className='mt-4 text-white'>Javascript</p>
             </div>
 
             <div className='shadow-md hover:scale-105 py-2 rounded-lg hover:shadow-white duration-300 ease-in-out'>
@@ -37,10 +37,7 @@ const Experience = () => {
                 <p className='mt-4 text-white'>GitHub</p>
             </div>
 
-            <div className='shadow-md hover:scale-105 py-2 rounded-lg hover:shadow-sky-400 duration-300 ease-in-out'>
-                    <img src={tailwind} alt="" className='w-20 mx-auto' />
-                <p className='mt-4 text-white'>Tailwind</p>
-            </div>
+           
            
         </div>
     </div>
